@@ -20,3 +20,5 @@ Thumbs.db
 *.zip
 *.tar
 *.gz
+
+.vercel
